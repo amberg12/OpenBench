@@ -13,5 +13,9 @@
     "balance_engine_throughputs"  : false,
 
     "use_x_accel_redirect"  : false,
-    "x_accel_redirect_root" : "/x-accel-media/"
+    "x_accel_redirect_root" : "/x-accel-media/",
+
+    "engines": [
+        "surveyor"
+    ]
 }
