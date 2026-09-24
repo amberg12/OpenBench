@@ -16,6 +16,6 @@
     "x_accel_redirect_root" : "/x-accel-media/",
 
     "engines": [
-        "surveyor"
+        "Surveyor"
     ]
 }
